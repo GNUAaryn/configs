@@ -16,3 +16,6 @@ font:
     style: Bold Italic
 
   size: 13
+
+import:
+  - /home/aaron/.config/alacritty/dracula.yml
